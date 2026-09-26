@@ -1,3 +1,4 @@
-This is a Vape (free) and it's been made by zhouyi ! You can go to https://wwbuh.lanzoul.com/iwhZ049j7tgf to download it !(password is 123456) I've made free acounts for you guys ! name : aaa,bbb,ccc,ddd,eee and password is : 123456 (all the acounts passwords are 123456) This project is totely free ! If you find a readme_2.md , Go and read it , it will be the latest release download script !
+这是一个 Vape（免费版），由 zhouyi 制作！你可以前往 https://wwbuh.lanzoul.com/iwhZ049j7tgf 下载它！（密码是 123456）我已经为你们创建了免费账号！用户名：aaa、bbb、ccc、ddd、eee，密码是：123456（所有账号的密码都是 123456）。这个项目完全免费！如果你发现一个 readme_2.md，去读它，它会是获取最新版本下载脚本的地方！
 
-Thanks for downloading my project , Can you give me a star ? Thanks !
+可以直接复制那个bat程序，并保存为.bat文件执行，可以自动下载依赖和外挂文件！
+感谢你下载我的项目，能给我点个 star 吗？谢谢！
